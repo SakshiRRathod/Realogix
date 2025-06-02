@@ -42,7 +42,7 @@ Download from Python's official website
 pip install notebook
 
 3.Clone the repository
-git clone https://github.com/AnuragRaut08/Realogix-Intelligent-Real-Estate-Logistics-Platform.git
+git clone https://github.com/SakshiRRathod/Realogix.git
 
 4.Navigate to project directory
 cd Realogix-Intelligent-Real-Estate-Logistics-Platform
